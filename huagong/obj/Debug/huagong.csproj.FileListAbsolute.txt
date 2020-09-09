@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\huagong\huagong\bin\Debug\huagong.exe
+C:\Users\Administrator\source\repos\huagong\huagong\bin\Debug\huagong.pdb
+C:\Users\Administrator\source\repos\huagong\huagong\obj\Debug\huagong.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\huagong\huagong\obj\Debug\huagong.Form1.resources
+C:\Users\Administrator\source\repos\huagong\huagong\obj\Debug\huagong.Properties.Resources.resources
+C:\Users\Administrator\source\repos\huagong\huagong\obj\Debug\huagong.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\huagong\huagong\obj\Debug\huagong.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\huagong\huagong\obj\Debug\huagong.exe
+C:\Users\Administrator\source\repos\huagong\huagong\obj\Debug\huagong.pdb
+D:\Users\Administrator\Desktop\待整理\repos\haugong\huagong\obj\Debug\huagong.csprojAssemblyReference.cache
+D:\Users\Administrator\Desktop\待整理\repos\haugong\huagong\obj\Debug\huagong.Form1.resources
+D:\Users\Administrator\Desktop\待整理\repos\haugong\huagong\obj\Debug\huagong.Properties.Resources.resources
+D:\Users\Administrator\Desktop\待整理\repos\haugong\huagong\obj\Debug\huagong.csproj.GenerateResource.cache
+D:\Users\Administrator\Desktop\待整理\repos\haugong\huagong\obj\Debug\huagong.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Desktop\待整理\repos\haugong\huagong\obj\Debug\huagong.exe
+D:\Users\Administrator\Desktop\待整理\repos\haugong\huagong\obj\Debug\huagong.pdb
